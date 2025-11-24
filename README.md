@@ -1,5 +1,6 @@
 # 💫 About Me:
 MCA Student<br>BCA Graduated <br>(University Of Calicut)
+<br><br>Web Developer 
 
 
 ## 🌐 Socials:
