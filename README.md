@@ -20,12 +20,18 @@
 [![](https://visitcount.itsvg.in/api?id=Mishal-malayil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-# 🏆 **Achievements**
-<div align="center">
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mishal-malayil&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 
-</div>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mishal-malayil&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mishal-malayil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # 🌀 **Fun Animations**
