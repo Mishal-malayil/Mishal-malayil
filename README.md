@@ -1,20 +1,3 @@
-<!-- ========================================================= -->
-<!--        🔥 PREMIUM README WITH BANNER + WAVE FOOTER        -->
-<!-- ========================================================= -->
-
-<!-- 🎨 CUSTOM TOP BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/banner.svg" alt="Banner" width="100%" />
-</p>
-
-<!-- wave -->
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/wave.svg" width="100%" alt="wave" />
-
-
-<!-- 👋 TYPING INTRO -->
-
----
-
 ## 💫 **About Me**
 - 🎓 MCA Student  
 - 🎓 BCA Graduate (University of Calicut)  
@@ -22,66 +5,20 @@
 - 🚀 Angular | TypeScript | PHP | MySQL  
 - 🌱 Always learning new technologies  
 
----
 
-## 🌐 **Socials**
-<div align="center">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mi_shal___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mishal-m-41b4aa375/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishalmalayil2003@gmail.com) 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mi_shal___)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mishal-m-41b4aa375/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishalmalayil2003@gmail.com)
-
-</div>
-
----
-
-# 💻 **Tech Stack**
-
-<div align="center">
-
-### **Languages**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mishal-malayil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mishal-malayil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal-malayil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mishal-malayil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### **Frameworks**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
----
-
-### **Tools**
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div>
-
----
-
-# 📊 **GitHub Stats**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mishal-malayil&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mishal-malayil&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal-malayil&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
 
 # 🏆 **Achievements**
 <div align="center">
@@ -90,16 +27,27 @@
 
 </div>
 
----
 
-# 🌊 **Animated Wave Footer (Premium UI)**
-
-<!-- WAVE FOOTER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+# 🌀 **Fun Animations**
 
 <div align="center">
-  
-### 👋 Thanks for Visiting My Profile  
-⭐ *Feel free to connect with me!*
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="800">
 
 </div>
+
+---
+
+# 🔥 **My Developer Journey**
+- Started coding at a young age  
+- Built multiple projects in Angular, PHP and MySQL  
+- Photoshop & Canva expert for UI/UX designs  
+- Always learning new technologies  
+- Aiming to become a **Full-Stack Developer**  
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
