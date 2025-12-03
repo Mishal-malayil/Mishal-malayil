@@ -4,15 +4,14 @@
 
 <!-- 🎨 CUSTOM TOP BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co/2YhFkdj/gradient-banner-tech.png" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/banner.svg" alt="Banner" width="100%" />
 </p>
 
+<!-- wave -->
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/wave.svg" width="100%" alt="wave" />
+
+
 <!-- 👋 TYPING INTRO -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Mohammed+Mishal+👋;MCA+Student+%7C+Web+Developer;Tech+Enthusiast+%7C+Programmer" alt="Typing SVG" />
-
-</div>
 
 ---
 
