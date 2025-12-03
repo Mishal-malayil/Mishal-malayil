@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohammed+Mishal+👋;MCA+Student+%7C+BCA+Graduate+(University+of+Calicut);Web+Developer+%7C+Angular+%2B+PHP+%2B+MySQL;Designer+%7C+Photoshop+%26+Canva" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00A1FF&center=true&vCenter=true&width=500&lines=Hello+!;Welcome+to+My+Profile;I+am+Mishal;MCA+Student;BCA+Graduated" alt="Typing SVG" />
+</h1>
+
 
 
 
