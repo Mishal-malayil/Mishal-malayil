@@ -1,3 +1,21 @@
+
+
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1FF&height=260&section=header&text=Mishal%20Malayil&fontSize=64&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner" />
+</p>
+
+
+<p align="center">
+  <img
+    src="https://avatars.githubusercontent.com/Mishal-malayil"
+    width="170"
+    style="margin-top:-130px; border-radius:50%; padding:8px; background:linear-gradient(135deg,#00A1FF,#F5F5F5); box-shadow: 0 8px 24px rgba(0,0,0,0.35);"
+    alt="Mishal Malayil Avatar"
+  />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2300&pause=1000&color=FFFDD9&center=true&vCenter=true&width=500&lines=Hello+!;Welcome+to+My+Profile;I+am+Mohammed+Mishal;MCA+Student;And+BCA+graduated;Passionate+Web+Developer;" alt="Typing SVG" />
 </h1>
