@@ -101,9 +101,46 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mishal-malayil/Mishal-malayil/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Mishal-malayil/Mishal-malayil/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammed-mishal-m-41b4aa375/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/_mi_shal___">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:mishalmalayil2003@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-00A884?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Mishal-malayil&icon=0&color=0" />
+</p>
+
+---
 
 </div>
+
 
 ---
 
