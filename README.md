@@ -72,5 +72,10 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Mishal-malayil/Mishal-malayil/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</p>
 
