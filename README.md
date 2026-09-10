@@ -85,18 +85,26 @@
 
 
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mishal-malayil&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Mishal-malayil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
 
 ---
 
-# 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mishal-malayil&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=Mishal-malayil&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+    alt="Top Contributed Repositories"
+    width="100%"
+  />
 </p>
 
 ---
@@ -156,7 +164,7 @@
 </div>
 
 
----
+
 
 # 🔥 My Developer Journey
 
