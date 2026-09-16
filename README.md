@@ -164,8 +164,6 @@
 </div>
 
 
-
-
 # 🔥 My Developer Journey
 
 * 🚀 Started coding at a young age
